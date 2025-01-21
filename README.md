@@ -26,4 +26,19 @@ https://github.com/WanderBernardo/AzureIA_ServiceAzureAIservices
 
 https://github.com/WanderBernardo/Storage_ServiceStorageAccounts
 
-04 - 
+04 - Agora, voltar para tela "Home" do portal Azure e configurar a importação de dados, dentro do serviço AI Search
+
+https://github.com/WanderBernardo/AzureIA_ServiceAISearchImportData
+
+### Teste
+Iremos testar direto na ferramenta, mas pode ser colocado em alguma aplicação da melhor forma que for necessario.
+
+Imagine que temos um repositorio vivo, onde todos os dias são colocados novos arquivos, então, o Search fica ativo para sempre buscar nesse repositório e atualizar a base. Então, com base no filtro realizado ele trá os resultados. Então, podemos fazer uma análise de sentimento, por exemplo.
+
+Neste exemplo: estamos trabalhando com arquivos de feedback de uma cafeteria.
+
+1 - Ir na opção ``` Search explorer  ``` e aplicar os filtros:
+![image](https://github.com/user-attachments/assets/9434e770-0ac2-4b25-8b69-7d1f2526b9e5)
+
+
+
